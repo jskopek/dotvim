@@ -7,7 +7,6 @@ Setup
 =====
 
 	git clone git@github.com:jskopek/dotvim.git ~/.vim
-	mkdir ~/.vim/tmp
 	ln -s ~/.vim/vimrc ~/.vimrc
 	ln -s ~/.vim/gvimrc ~/.gvimrc
 
