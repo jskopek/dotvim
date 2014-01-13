@@ -14,7 +14,7 @@ endif
 
 let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlP'
-set wildignore+=migrations,*.pyc,node_modules,venv,compiled_css
+set wildignore+=migrations,*.pyc,node_modules,venv,compiled_css,src
 
 " Set up python spacing
 set smartindent
