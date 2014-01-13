@@ -15,3 +15,9 @@ endif
 let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlP'
 set wildignore+=migrations,*.pyc,node_modules,venv,compiled_css
+
+" Set up python spacing
+set smartindent
+set tabstop=4
+set shiftwidth=4
+set expandtab
