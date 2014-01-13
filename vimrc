@@ -11,3 +11,7 @@ set backupdir=~/.vim/tmp
 if has("autocmd")
 	autocmd bufwritepost .vimrc source $MYVIMRC
 endif
+
+let g:ctrlp_map = '<c-p>'
+let g:ctrlp_cmd = 'CtrlP'
+set wildignore+=migrations,*.pyc,node_modules,venv,compiled_css
