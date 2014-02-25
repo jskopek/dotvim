@@ -24,6 +24,7 @@ Plugins
 - vim-fugitive: Includes handy git integration, such as the ':Ggrep' project search
 - vim-ctrlp: Fast file finder
 - vim-coffee-script: Adds support for coffeescript (syntax, indenting, compilation)
+- vim-uninpared: Adds handy bracket key mappings
 
 Requirements
 ============
